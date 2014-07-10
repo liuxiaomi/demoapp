@@ -1,0 +1,39 @@
+DEBUG:root:call to 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:12121+
+DEBUG:root:call to 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 2.png
+DEBUG:root:action=loadBasePoint and areaId=2
+DEBUG:root:action=loadBasePoint and 1
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
+DEBUG:root:action=loadBasePoint and 2
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
+DEBUG:root:return to client : [{"areaId": 1, "picName": "1.png", "areaName": "Floor 1"}, {"areaId": 2, "picName": "2.png", "areaName": "Floor 2"}, {"areaId": 3, "picName": "3.png", "areaName": "Floor 3"}, {"areaId": 4, "picName": "4.png", "areaName": "Floor 4"}]
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 1.png
+DEBUG:root:call to 1.png
+DEBUG:root:The filename is 1.png
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
+DEBUG:root:return to client: [{"areaId": 1, "hasCollected": true, "alias": "1p11", "y": 30, "x": 30, "id": 1}, {"areaId": 1, "hasCollected": true, "alias": "1p12", "y": 60, "x": 60, "id": 2}, {"areaId": 1, "hasCollected": true, "alias": "1p13", "y": 90, "x": 90, "id": 3}, {"areaId": 1, "hasCollected": true, "alias": "1p14", "y": 30, "x": 30, "id": 4}, {"areaId": 1, "hasCollected": true, "alias": "1p15", "y": 60, "x": 60, "id": 5}, {"areaId": 1, "hasCollected": true, "alias": "1p16", "y": 90, "x": 90, "id": 6}, {"areaId": 1, "hasCollected": true, "alias": "1p17", "y": 30, "x": 30, "id": 7}, {"areaId": 1, "hasCollected": true, "alias": "1p18", "y": 60, "x": 60, "id": 8}]
